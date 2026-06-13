@@ -1,0 +1,1 @@
+ALTER TABLE public.products ADD COLUMN is_recyclable boolean NOT NULL DEFAULT false;

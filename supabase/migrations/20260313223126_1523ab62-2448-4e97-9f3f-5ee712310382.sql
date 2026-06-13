@@ -1,0 +1,1 @@
+ALTER TABLE public.coupons ADD COLUMN created_by uuid DEFAULT NULL;
